@@ -15,9 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          akash dhanu
+          akash 
         </a>
-      </header>
+      </header> 
     </div>
   );
 }
